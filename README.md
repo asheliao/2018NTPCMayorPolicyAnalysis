@@ -16,8 +16,8 @@
 * After that, we extracted the most common 100 words used in both candidates' policy.
 * The most common words used in Su's policy : dpp_frequency.csv
 * The most common words used in Hou's policy: kmt_frequency.csv
-### ----- To Do List -----
 ### 3. EDA
 * Packages: pandas / numpy / matplotlib
-
+* Medium: https://medium.com/@asheliao/2018%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E8%88%89%E6%94%BF%E8%A6%8B%E5%88%86%E6%9E%90-c9c581f35246
+### ----- To Do List -----
 ### 4. Sentiment analysis with R and Google Cloud Platform
