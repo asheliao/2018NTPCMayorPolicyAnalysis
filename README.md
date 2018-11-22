@@ -6,10 +6,16 @@
 * Packages: BeautifulSoup / requests / pandas / re
 * Number 1 - Su Tseng-chang  - 蘇貞昌 - https://newtaipei.run/webs/home.html
 * Number 2 - Hou You-yi - 侯友宜 - https://youyi.tw/
-### ----- To Do List -----
 ### 2. Text mining with Python 
-* Packages: pandas / jieba
-
+* Packages: pandas / jieba / collections
+The characters in Su's policy are 38653 characters, including brackets.
+The characters in Hou's policy are 1468 characters, including brackets.
+I use Jieba to do text segmentation and use pandas & clooections to produce a frequency table. I also use user dict to do text segmentation, the user dict includes some words often uesd in Taiwan society but not in Jieba. 
+For example: 捷運/托育/銀髮族/運動中心/復康巴士/縣長/鶯歌
+After that, we extracted the most common 100 words used in both candidates' policy.
+#### The most common words used in Su's policy
+#### The most common words used in Hou's policy
+### ----- To Do List -----
 ### 3. EDA
 * Packages: pandas / numpy / matplotlib
 
