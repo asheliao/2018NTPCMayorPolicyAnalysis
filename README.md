@@ -22,6 +22,8 @@
 
 ### 4. Sentiment analysis with R and Google Cloud Platform
 #### The following tables show the sentiment and length of each policy from both candidates
+#### Su's sentiment analysis
 ![image](https://github.com/asheliao/2018NTPCMayorPolicyAnalysis/blob/master/Sentiment/DPP_SENTI.png)
+#### Hou's sentiment analysis
 ![image](https://github.com/asheliao/2018NTPCMayorPolicyAnalysis/blob/master/Sentiment/KMT_SENTI.png)
 ### ----- To Do List -----
