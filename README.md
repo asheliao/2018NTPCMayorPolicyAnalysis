@@ -1,6 +1,8 @@
 # 2018NTPCMayorPolicyAnalysis
 2018 New Taipei City Mayor Policy Analysis 
-
+## Final Result
+Su Tseng-chang - 873,692 - 42.85%
+Hou You-yi - 1,165,130 - 57.15% - Winner
 ## Workflow
 ### 1. Crawl both candidates' policy from their offical website
 * Packages: BeautifulSoup / requests / pandas / re
