@@ -28,4 +28,3 @@ Hou You-yi - 1,165,130 - 57.15% - Winner
 ![image](https://github.com/asheliao/2018NTPCMayorPolicyAnalysis/blob/master/Sentiment/DPP_SENTI.png)
 #### Hou's sentiment analysis
 ![image](https://github.com/asheliao/2018NTPCMayorPolicyAnalysis/blob/master/Sentiment/KMT_SENTI.png)
-### ----- To Do List -----
